@@ -1,0 +1,25 @@
+h1 {
+   background: #b10303; /* Цвет фона под заголовком */
+   color: hsl(0, 0%, 100%);; /* Цвет текста */
+   padding: 18px; /* Поля вокруг текста */
+  }
+
+  p {
+   font-size: 18px; /* Размер шрифта в пунктах */ 
+  }
+   .colortext{
+      color: #0000ff; /* синий цвет выделения */
+   }
+   img {
+      border-style: dashed; /* Стиль линии(пунктир ) вокруг картинки */
+      padding: 0px; /* Поля вокруг текста */
+     }
+     
+   #footer {
+      clear: both;
+      margin: 0 auto;
+      text-align: center;
+      font-size: 20px;
+            background-color: #0e0d0d !important;
+            color: #ffffff;
+  }
